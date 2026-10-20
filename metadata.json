@@ -1,0 +1,6 @@
+{
+  "name": "SISGE SENAI-SP - Controle de Estoques",
+  "description": "Sistema industrial e didático de gestão e controle de estoques do SENAI-SP com cadastro hierárquico (Tipo, Grupo, Subgrupo, Artigo), movimentação de entrada e saída, localização física, relatórios e persistência em nuvem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
